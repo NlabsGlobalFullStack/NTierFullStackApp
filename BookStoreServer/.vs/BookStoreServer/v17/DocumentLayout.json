@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348BBCB0-3CFB-4F4B-ADAC-CFA9C56952AA}|Entities\\Entities.csproj|c:\\users\\turkm\\desktop\\projects\\fullstack\\bookstore\\bookstoreserver\\entities\\dtos\\shared\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348BBCB0-3CFB-4F4B-ADAC-CFA9C56952AA}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\shared\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348BBCB0-3CFB-4F4B-ADAC-CFA9C56952AA}|Entities\\Entities.csproj|c:\\users\\turkm\\desktop\\projects\\fullstack\\bookstore\\bookstoreserver\\entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348BBCB0-3CFB-4F4B-ADAC-CFA9C56952AA}|Entities\\Entities.csproj|solutionrelative:entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348BBCB0-3CFB-4F4B-ADAC-CFA9C56952AA}|Entities\\Entities.csproj|c:\\users\\turkm\\desktop\\projects\\fullstack\\bookstore\\bookstoreserver\\entities\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348BBCB0-3CFB-4F4B-ADAC-CFA9C56952AA}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4392FB1E-08D4-4664-A899-718C14EE49DA}|WebAPI\\WebAPI.csproj|c:\\users\\turkm\\desktop\\projects\\fullstack\\bookstore\\bookstoreserver\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4392FB1E-08D4-4664-A899-718C14EE49DA}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F87DB1F-B305-49AB-99BD-6C4F948F8C0E}|Business\\Business.csproj|c:\\users\\turkm\\desktop\\projects\\fullstack\\bookstore\\bookstoreserver\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F87DB1F-B305-49AB-99BD-6C4F948F8C0E}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F87DB1F-B305-49AB-99BD-6C4F948F8C0E}|Business\\Business.csproj|c:\\users\\turkm\\desktop\\projects\\fullstack\\bookstore\\bookstoreserver\\business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F87DB1F-B305-49AB-99BD-6C4F948F8C0E}|Business\\Business.csproj|solutionrelative:business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-02-17T20:28:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Entities\\DTOs\\Shared\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\Shared\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Entities\\DTOs\\Shared\\PaymentDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\Shared\\PaymentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:21:20.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Entities\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Entities\\Models\\Book.cs",
+              "RelativeToolTip": "Entities\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:18:58.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Entities\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\Review\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Entities\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeToolTip": "Entities\\DTOs\\Review\\ReviewDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:18:42.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Business\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Business\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Business\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Business\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:17:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Business",
+              "DocumentMoniker": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-17T20:16:44.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9681d69d-90e5-4d1d-ad3c-0da0fcddf13c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\turkm\\Desktop\\Projects\\FullStack\\BookStore\\BookStoreServer\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T20:11:12.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

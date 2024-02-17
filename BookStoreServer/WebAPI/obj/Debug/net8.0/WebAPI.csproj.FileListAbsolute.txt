@@ -1,0 +1,6 @@
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache

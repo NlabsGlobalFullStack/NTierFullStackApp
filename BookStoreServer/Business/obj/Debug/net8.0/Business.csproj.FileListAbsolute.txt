@@ -1,0 +1,5 @@
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\turkm\Desktop\Projects\FullStack\BookStore\BookStoreServer\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
